@@ -9,7 +9,6 @@ import 'package:e_commerce_app/routes.dart';
 import 'package:e_commerce_app/themes/custom_color.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce_app/utils/extension.dart';
 import 'package:provider/provider.dart';
 
 class PaymentPage extends StatefulWidget {

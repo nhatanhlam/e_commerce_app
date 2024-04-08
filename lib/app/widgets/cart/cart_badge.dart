@@ -4,7 +4,6 @@ import 'package:e_commerce_app/app/providers/checkout_provider.dart';
 import 'package:e_commerce_app/app/widgets/cart/cart_container.dart';
 import 'package:e_commerce_app/routes.dart';
 
-import 'package:e_commerce_app/utils/extension.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
