@@ -11,7 +11,6 @@ import 'package:e_commerce_app/app/widgets/pick_image_source.dart';
 import 'package:e_commerce_app/config/flavor_config.dart';
 import 'package:e_commerce_app/routes.dart';
 
-import 'package:e_commerce_app/utils/extension.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
